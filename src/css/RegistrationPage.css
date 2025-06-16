@@ -1,0 +1,14 @@
+.form-group_registration {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+.form-group_registration label {
+  margin-bottom: 0.25rem;
+  font-weight: 500;
+}
+.form-group_registration input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

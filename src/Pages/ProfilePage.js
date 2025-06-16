@@ -260,9 +260,7 @@ function ProfilePage({ userInfo, displaySuccess }) {
           </div>
           <div>
           <div style={{display:"flex",alignItems:"center"}}>
-          <Typography gutterBottom variant="h6" style={{flexGrow:1}}>
-            Education Details
-          </Typography>
+          
           <div className='AddIcon' onClick={(e)=>handleAddEducation(e)}>
             <AddCircleOutlineIcon fontSize="small" />
           </div>
